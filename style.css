@@ -1,0 +1,60 @@
+
+/*html selects the root element*/
+html {
+    background-color: blue;
+}
+
+.WhiteText {
+    font-family: Helvetica;
+    color: white;
+}
+
+#LightBlue {
+    color: lightblue;
+}
+
+#Title {
+    background-color: darkblue;
+    position: flex;
+    height: 100%;
+    width: 100%;
+    padding: 2px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+/*class: img*/
+img {
+    margin: -10px 0px;
+}
+
+.Margin {
+    margin-bottom: 100px;
+}
+
+.container {
+    border-radius: 5px;
+    background-color: lightblue;
+    margin: 10px;
+    padding: 20px;
+}
+
+#InputBox {
+    height: 100%;
+    width: 50%;
+    padding: 10px;
+    font-size: 15px;
+    background-color: green;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+#map {
+    border-radius: 4px;
+    height: 400px;
+    width: 100%;
+
+}
